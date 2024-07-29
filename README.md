@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! 🚀 I'm a passionate explorer of the worlds of Business, Data, and Financial Analysis, currently on a quest to uncover hidden insights and transform data into impactful decisions. Here’s a little about me:
 
+![](https://github.com/MeghaDwarakanath/MeghaDwarakanath/blob/main/74pZ.gif)
+
 ## 🔍 What I Do
 - **Business Analysis:** Turning business challenges into data-driven strategies and actionable insights.
 - **Data Analysis:** Diving deep into data to uncover patterns, trends, and stories that drive decisions.
