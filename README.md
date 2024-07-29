@@ -38,5 +38,5 @@ Happy analyzing! 📈✨
 
 ---
 
-**[Your Name]**
+**Megha Dwarakanath**
 
