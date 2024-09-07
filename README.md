@@ -15,7 +15,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate explorer of the worlds of Bu
 - **Financial Savvy:** Skilled in financial modeling, budgeting, and performance analysis.
 
 ## 🚀 Current Projects
-- **[Project 1]:** Exploring [brief description of a project you're working on].
+- **[Project 1]:** Case Study - International Expansion of Healthcare Provider.
 - **[Project 2]:** Analyzing [brief description of another project or dataset].
 
 ## 🛠️ Tools I Love
