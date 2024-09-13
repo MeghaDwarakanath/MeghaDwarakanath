@@ -7,10 +7,10 @@ I’m currently working as an Associate DevOps Engineer, but my passion lies in 
 
 ## 📊 **Featured Projects**
 
-1. **[Project Title: e.g., Market Entry Analysis for GlobalMed Health System]**
+1. **Market Entry Analysis for GlobalMed Health System**
 - Description: An in-depth business analysis focusing on GlobalMed Health System’s expansion into Japan, Austria, Switzerland, Norway, and France. The project covers market demand, economic viability, competitive landscape, and strategic recommendations.
-- Skills Applied: Market research, demand analysis, SWOT analysis, data visualization.
-- Tools Used: Excel, Tableau, Python, SQL.
+- Skills Applied: Market research, demand analysis, SWOT analysis, gap analysis, data visualization, presentation, Business Analysis and Documentation
+- Tools Used: Excel, Power Query, Microsoft PowerPoint.
 2. **[Project Title: e.g., Customer Behavior Analysis]**
 - Description: A data-driven analysis of customer purchasing behavior to identify key trends, preferences, and potential areas for improvement in the customer experience.
 - Skills Applied: Data cleaning, exploratory data analysis (EDA), segmentation, reporting.
