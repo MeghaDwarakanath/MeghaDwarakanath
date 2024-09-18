@@ -1,8 +1,8 @@
-📊 Netflix Shows Dashboard
+# 📊 Netflix Shows Dashboard
 This repository contains a Power BI dashboard created using the Netflix shows dataset from Kaggle. The dashboard provides insights into the Netflix content library, helping users analyze various aspects of the platform's offerings, including distribution by genre, release year, country, and more.
 
 
-📁 Dataset
+## 📁 Dataset
 The dataset used for this analysis can be found on Kaggle. It contains information about Netflix TV shows and movies, including:
 
 Show title
@@ -14,7 +14,7 @@ Date added
 Rating
 Duration
 Listed in (Genre)
-📈 Dashboard Overview
+## 📈 Dashboard Overview
 Key Visualizations:
 Content by Country: Displays the number of TV shows and movies produced in each country.
 Genre Distribution: Shows the breakdown of content based on different genres.
@@ -27,7 +27,7 @@ Insights:
 Content trends: Shows how Netflix’s focus on genres, countries, and release years has evolved.
 Global reach: Provides a geographical perspective of Netflix’s content production around the world.
 Audience focus: Identifies content aimed at different audience demographics based on rating and genre.
-🚀 How to Use
+## 🚀 How to Use
 Clone this repository:
 
 bash
@@ -37,6 +37,6 @@ Open the Power BI file (Netflix_Dashboard.pbix) in Power BI Desktop.
 
 Explore the various visualizations and gain insights from Netflix’s data.
 
-🛠 Tools Used
+## 🛠 Tools Used
 Power BI: Used for data visualization and dashboard creation.
 Dataset Source: Kaggle.
