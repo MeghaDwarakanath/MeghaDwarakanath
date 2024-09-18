@@ -32,8 +32,8 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/netflix-powerbi-dashboard.git
-Open the Power BI file (Netflix_Dashboard.pbix) in Power BI Desktop.
+git clone [https://github.com/your-username/netflix-powerbi-dashboard.git](https://github.com/MeghaDwarakanath/MeghaDwarakanath.git)
+Open the Power BI file in Power BI Desktop.
 
 Explore the various visualizations and gain insights from Netflix’s data.
 
