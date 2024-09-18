@@ -40,3 +40,4 @@ Explore the various visualizations and gain insights from Netflix’s data.
 ## 🛠 Tools Used
 Power BI: Used for data visualization and dashboard creation.
 Dataset Source: Kaggle.
+Data cleaning: MySQL
