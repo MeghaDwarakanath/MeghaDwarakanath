@@ -11,10 +11,11 @@ I’m currently working as an Associate DevOps Engineer, but my passion lies in 
 - Description: An in-depth business analysis focusing on GlobalMed Health System’s expansion into Japan, Austria, Switzerland, Norway, and France. The project covers market demand, economic viability, competitive landscape, and strategic recommendations.
 - Skills Applied: Market research, demand analysis, SWOT analysis, gap analysis, data visualization, presentation, Business Analysis and Documentation
 - Tools Used: Excel, Power Query, Microsoft PowerPoint.
-2. **[Project Title: e.g., Customer Behavior Analysis]**
-- Description: A data-driven analysis of customer purchasing behavior to identify key trends, preferences, and potential areas for improvement in the customer experience.
-- Skills Applied: Data cleaning, exploratory data analysis (EDA), segmentation, reporting.
-- Tools Used: Python (Pandas, NumPy, Matplotlib), Excel.
+2. **Netflix Content Analysis Dashboard**
+- Description: A comprehensive analysis of Netflix’s content library aimed at uncovering insights related to genre distribution, content production by country, ratings, and year of release. The project focuses on understanding trends in Netflix’s global catalog, providing a strategic overview of content offerings and audience targeting.
+- Skills Applied: Data cleaning, exploratory data analysis (EDA), data visualization, reporting, and dashboard creation.
+- Tools Used: Power BI (for visualization and dashboard creation), MySQL (for data querying and structuring), and Excel (for data cleaning and preprocessing).
+- Dataset: Netflix Shows Dataset from Kaggle.[https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download]
 3. **[Project Title: e.g., Financial Forecasting & Budgeting]**
 - Description: Predicting future financial performance using historical data and advanced forecasting techniques. Created dynamic dashboards to monitor and adjust budgeting strategies in real-time.
 - Skills Applied: Time series analysis, financial modeling, data visualization.
