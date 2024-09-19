@@ -28,7 +28,6 @@ With a strong foundation in DevOps, I have honed my problem-solving and technica
 
 ## 📫 Let's Connect!
 - **LinkedIn:** https://www.linkedin.com/in/megha-dwarakanath-191a62105
-- **Personal Website:** https://www.kaggle.com/meghadwarakanath
 - **email:** megha.dwarakanathk@gmail.com
 
 Feel free to explore my projects, and reach out if you'd like to discuss collaboration or career opportunities!
