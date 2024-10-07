@@ -16,6 +16,11 @@ I’m currently working as an Associate DevOps Engineer, but my passion lies in 
 - Skills Applied: Data cleaning, exploratory data analysis (EDA), data visualization, reporting, and dashboard creation.
 - Tools Used: Power BI (for visualization and dashboard creation), MySQL (for data querying and structuring), and Excel (for data cleaning and preprocessing).
 - Dataset: Netflix Shows Dataset from Kaggle.[https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download]
+3. **ClassicModel Sales Analysis Dashboard**
+- Description: A detailed analysis of ClassicModel's sales data designed to uncover insights related to regional sales performance, product trends, customer segmentation, and revenue growth over time. The project focuses on understanding the company’s sales dynamics, helping stakeholders make data-driven decisions for strategic planning and business development.
+- Skills Applied: Data cleaning, exploratory data analysis (EDA), data visualization, reporting, and dashboard creation.
+- Tools Used: Power BI (for visualization and dashboard creation), MySQL (for data querying and structuring), and Excel (for data cleaning and preprocessing).
+- Dataset: ClassicModel Sales Dataset (sourced from company’s sales database).
 
 ## 💡 Skills & Tools
 - Business Analysis: Market Research, SWOT Analysis, Competitive Analysis, Business Process Mapping, Requirement Gathering.
