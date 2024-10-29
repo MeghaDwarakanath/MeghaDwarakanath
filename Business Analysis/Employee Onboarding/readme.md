@@ -3,13 +3,13 @@ The Employee Onboarding system is designed to streamline and automate the proces
 ### UML code
 **tool used: https://yuml.me/diagram/usecase/draw**
 
-[new Employee] - (Accept job offer) 
-[HR Personnel] - (uploads onboarding document)
-(uploads onboarding document) > (link to start the onboarding process)
-(Accept job offer)>(completes the background check process via a third party service)
-[system] -  (prompts employee to fill out personal information and sign necessary documents online)
-[HR Personnel] -(link to start the onboarding process)
-(link to start the onboarding process) > (prompts employee to fill out personal information and sign necessary documents online)
-[system] - (schedules mandatory training sessions)
-[new Employee] - (completes the training within the scheduled time)
+[new Employee] - (Accept job offer) <br>
+[HR Personnel] - (uploads onboarding document)<br>
+(uploads onboarding document) > (link to start the onboarding process)<br>
+(Accept job offer)>(completes the background check process via a third party service)<br>
+[system] -  (prompts employee to fill out personal information and sign necessary documents online)<br>
+[HR Personnel] -(link to start the onboarding process)<br>
+(link to start the onboarding process) > (prompts employee to fill out personal information and sign necessary documents online)<br>
+[system] - (schedules mandatory training sessions)<br>
+[new Employee] - (completes the training within the scheduled time)<br>
 [HR Personnel] -(Review 30 days progress)
