@@ -1,7 +1,7 @@
 # Welcome to My Portfolio! 👋
 
 Hi, I'm Megha Dwarakanath!
-I’m currently working as an Associate DevOps Engineer, but my passion lies in Business Analysis, Data Analytics, and Financial Analysis. I’m actively transitioning into the Business Analyst role while expanding my expertise in Investment Banking and Financial Analysis. This portfolio demonstrates my ability to analyze complex data, understand market trends, and provide actionable insights that drive business and financial success.
+I’m currently working as a Data analyst, my passion lies in Business Analysis, Data Analytics, and Financial Analysis. This portfolio demonstrates my ability to analyze complex data, understand market trends, and provide actionable insights that drive business and financial success.
 
 ![](https://github.com/MeghaDwarakanath/MeghaDwarakanath/blob/main/74pZ.gif)
 
